@@ -142,7 +142,4 @@ EXPOSE 80
 
 ---
 
-## 📄 License
 
-© 2025 DivulgeAI Technologies Pvt. Ltd. — All rights reserved.
-For clinical support only. Not a substitute for professional diagnosis.
